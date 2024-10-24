@@ -6,6 +6,6 @@
 - 😄 Pronouns: he/him
 
 
-Javascript Game Project
+Javascript Game Project - 
 Live site: https://cyan-dorian-sparrow.glitch.me 
 Code: https://glitch.com/edit/#!/cyan-dorian-sparrow 
